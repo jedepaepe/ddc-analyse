@@ -1,7 +1,18 @@
+[<< introduction](./1-introduction.md)
 # Analyse fonctionnelle #
 
-Nous analysons l'application sur base de ses écrans.
+Nous décrivons ici les fonctions de l'application ddc-app.
 
+L'analyse sera divisée différentes parties:
+1. [la description des utilisateurs de l'application](./2-1-utilisateurs.md)
+1. [la description des écrans de l'application](./2-2-ecrans.md)
+1. la description des règles métiers
+
+[>> utilisateurs](./2-1-utilisateurs.md)
+
+[>> glossaire](./3-glossaire.md)
+
+// obsolète
 ## Page d'accueil ##
 
 ![page d'accueil](./images/ddc-sketch.jpg)
