@@ -3,6 +3,8 @@
 ### écran de demande de congé ###
 Il s'agit du formulaire de demande de congé.
 
+![formulaire de demande de congé](./images/demande-conge-formulaire.png)
+
 Le nom et prénom de l'utilisateur sont automatiquement remplis et il n'est pas possible de les modifier.
 
 Le premier input permet de remplir la date de début de congé. Nous utilisons un composant avec une zone de saisie et un bouton pour ouvrir un calendrier ([voir par exemple le calendar de primeng](https://primeng.org/calendar#icon)).

@@ -4,6 +4,8 @@
 
 L'écran d'acceuil est l'écran affiché au démarrage de l'application (landing page).
 
+![écran d'accueil](./images/ecran-accueil.png)
+
 Du haut vers le bas:
 - "24 février 2023" est la date courante
 - "3-10 mars / approuvé" est le prochain congé et son statut
@@ -14,4 +16,4 @@ Du haut vers le bas:
     - rouge pour les congés refusé
     - bleu pour les congé passés
 
-[>> demande de congé]
+[>> demande de congé](./2-2-2-demande-de-conge.md)
