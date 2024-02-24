@@ -11,13 +11,3 @@ L'analyse sera divisée différentes parties:
 [>> utilisateurs](./2-1-utilisateurs.md)
 
 [>> glossaire](./3-glossaire.md)
-
-// obsolète
-## Page d'accueil ##
-
-![page d'accueil](./images/ddc-sketch.jpg)
-
-TODO : description
-
-## Formulaire DDC ##
- ...
