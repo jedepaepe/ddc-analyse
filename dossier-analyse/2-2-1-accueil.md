@@ -7,7 +7,8 @@ L'écran d'acceuil est l'écran affiché au démarrage de l'application (landing
 ![écran d'accueil](./images/ecran-accueil.png)
 
 Du haut vers le bas:
-- "24 février 2023" est la date courante
+- le menu, voir [menu](./2-2-c-1-menu.md)
+- "24 février 2023" est la date courante (invisible sur le scan ...)
 - "3-10 mars / approuvé" est le prochain congé et son statut
 - "2023" permet de changer l'année
 - le calendrier annuel sous la forme de 12 mois. Les jours de congé sont marqués avec une couleur de fond:
