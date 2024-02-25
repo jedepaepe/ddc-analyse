@@ -1,7 +1,12 @@
-### Utilisateurs ###
+[<< introduction](./1-introduction.md)
+### Analyse fonctionnelle : Utilisateurs ###
 
 Les utilisateurs de l'applications sont:
-- les employés de l'entreprises
-- les managers, responsable de l'organisation du travail et qui dirigent des employés
-- rh, c'est-à-dire les membres du service RH (ressources humaines)
-- ? les administrateurs de la application (est-ce nécessire, à vérifier)
+- **worker** : employé de l'entreprises
+- **managers** : personne responsable de l'organisation du travail et qui dirigent des **workers**
+- **rh** : c'est-à-dire les membres du service RH (ressources humaines)
+- **administrator** : administrateur de la application (est-ce nécessire, à vérifier)
+
+L'application interface aussi le système d'authentication de l'entreprise.
+
+[écrans >>](./2-2-ecrans.md)

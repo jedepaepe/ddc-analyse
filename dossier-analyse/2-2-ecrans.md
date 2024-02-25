@@ -1,4 +1,4 @@
-[<< analyse fonctionnelle](./2-analyse-fonctionnelle.md)
+[<<< analyse fonctionnelle](./2-analyse-fonctionnelle.md)
 
 # Analyse fonctionnelle - description des écrans #
 
@@ -42,8 +42,10 @@ Notons que:
 1. liste des congés d'un travailleur
 1. ... ?
 
-## Autre cas
+## Autres cas
 Un utilisateur peut cumuler plusieur rôles. Il peut être employé, manager et rh. Dans ce cas, l'application ajoute un élément de menu "sélectionner un rôle" qui contient au plus:
 - employé
 - manager
 - rh
+
+[>> écran d'accueil](./2-2-1-accueil.md)
