@@ -1,7 +1,7 @@
 [<< accueil](./2-2-1-accueil.md)
 
 ### écran de demande de congé ###
-Il s'agit du formulaire de demande de congé.
+L'écran demande de congé contient un formulaire. Il est utilisé par les employés pour demander un congé:
 
 ![formulaire de demande de congé](./images/demande-conge-formulaire.png)
 
