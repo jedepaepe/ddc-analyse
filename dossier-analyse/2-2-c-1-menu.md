@@ -1,9 +1,9 @@
 ### Composant menu ###
 
-Le menu est un menu Breadcrumb ([voir par exemple primeng](https://primeng.org/breadcrumb)) avec liens suivants :
+Le menu contient les entrées suivantes :
 
 - calendrier
-- liste
+- [liste](./2-2-4-liste-conges.md)
 - solde
-- nouvelle demande
+- [nouvelle demande](./2-2-2-demande-de-conge.md)
 
