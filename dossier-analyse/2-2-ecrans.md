@@ -6,8 +6,8 @@ Cette section est dédicacée à la description des écrans de ddc-app.
 
 ## Liste des écrans de l'employé ##
 1. [accueil](./2-2-1-accueil.md) : parge d'accueil, calendrier des congés
-1. [formulaire de DDC](./2-2-2-demande-de-conge.md) : demande d'un nouveau congé
-1. solde : solde des congés
+1. [demande de congé](./2-2-2-demande-de-conge.md) : un formulaire de demande de congé
+1. [solde](./2-2-3-solde.md) : solde des congés
 1. liste : liste des congés
 1. détail : détail d'un congé
 1. ...?
