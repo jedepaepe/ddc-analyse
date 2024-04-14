@@ -1,4 +1,4 @@
-[<< table des matières](./0-table-matieres)
+[<< table des matières](./0-table-matieres.md)
 
 # dde-app #
 
